@@ -1,4 +1,6 @@
 (1)supervised ml
 (2)unsupervised ml
 (3)neural network 
-(4)local update
+(4)remote update
+(5)local update
+
